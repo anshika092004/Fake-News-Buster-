@@ -1,4 +1,4 @@
-# Fake-News-Buster-
+# <img width="100" height="100" alt="fake-news" src="https://github.com/user-attachments/assets/a9733198-7921-4857-ab09-9a9667e6c283" /> Fake-News-Buster-
 A machine learning-based web application that classifies news articles as **Real** or **Fake** using Natural Language Processing techniques.
 
 ## 📌 Project Description
